@@ -35,7 +35,7 @@ Follow these steps to set up and run the bot:
 1️⃣ **Clone the Repository:**
 
 ```bash
-git clone https://github.com/BitFancy/Copy-Trading-Bot-Rust
+git clone ...
 ```
 
 2️⃣ **Navigate & Build:**
@@ -61,13 +61,6 @@ cargo run
 ```
 
 ---
-
-## 💬 **Need Help? Contact Me!**
-
-If you have any questions, feel free to reach out via:
-
-📩 **Telegram:** [@bitfancy](https://t.me/bitfancy)  
-🎮 **Discord:** [@bitbanana717]
 
 🌹 **You're always welcome!** 🌹
 
